@@ -1,20 +1,38 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🧠 MindCare AI
 
-# Run and deploy your AI Studio app
+MindCare AI is an AI-powered mental health support platform designed to provide empathetic and therapeutic-style conversations inspired by CBT (Cognitive Behavioral Therapy) and DBT (Dialectical Behavior Therapy).
 
-This contains everything you need to run your app locally.
+## ✨ Features
 
-View your app in AI Studio: https://ai.studio/apps/435b2e57-e6b7-4d69-9225-a8a668c0d6e2
+- 💬 AI-powered therapeutic chatbot
+- 🧠 Emotion-aware conversations
+- ❤️ Supportive and empathetic interaction
+- 🚨 Crisis-sensitive response system
+- 🌙 Modern and user-friendly interface
+- 🔒 Safe and privacy-focused communication
 
-## Run Locally
+## 🛠️ Tech Stack
 
-**Prerequisites:**  Node.js
+- React / TypeScript
+- Gemini AI
+- Modern UI Design
+- AI-assisted conversational workflow
 
+## 🎯 Project Goal
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+The goal of MindCare AI is to create a safe and supportive digital space where users can express emotions and receive thoughtful, therapeutic-style conversational support.
+
+## 🚀 Run Locally
+
+```bash
+npm install
+npm run dev
+```
+
+## 📌 Note
+
+MindCare AI is designed for emotional support and reflective conversations. It does not replace professional mental health care or medical diagnosis.
+
+## 👩‍💻 Developer
+
+Developed by Madhumitha M
