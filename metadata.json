@@ -1,0 +1,6 @@
+{
+  "name": "MindCare AI",
+  "description": "An empathetic, highly supportive mental health chatbot assistant powered by CBT and DBT principles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
